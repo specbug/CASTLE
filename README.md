@@ -1,4 +1,5 @@
 # CASTLE
+## Curated Space Tool for Launch Exhibitions
 A convenient tool to keep updated with the latest and upcoming rocket launches globally.
 
 ### As part of the NASA's ['Do YOU Know When the Next Rocket Launch Is?'](https://2018.spaceappschallenge.org/challenges/can-you-build/when-next-rocket-launch/details) SpaceApp challenge, 2018.
